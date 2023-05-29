@@ -1,7 +1,5 @@
 '''
 Algoritmo que calcula o caminho de custo mínimo entre vértices de um grafo. Escolhido um vértice como raiz da busca, este algoritmo calcula o custo mínimo deste vértice para todos os demais vértices do grafo.
-Vídeo de apresentação: https://youtu.be/ooJtGkkBFPQ
-Por: José Florêncio de Melo Neto
 '''
 
 import networkx as nx
